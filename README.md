@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nicolas Oyarce</h1>
+<h1 align="center">Hi, I'm Nicolas Oyarce</h1>
 <h3 align="center">Software Enginner Student</h3>
-
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
