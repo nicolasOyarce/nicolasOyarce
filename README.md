@@ -3,7 +3,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start) --> 
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -28,5 +28,5 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,django,bash,git,aws,bootstrap,css,cloudflare,postman,discord,github,html,js,linux,md,mongodb,mysql,py,react,fastapi,docker,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=neovim,django,bash,git,aws,bootstrap,css,cloudflare,postman,github,html,js,linux,md,mongodb,mysql,py,react,fastapi,docker,vscode&perline=14" />
   </a>
