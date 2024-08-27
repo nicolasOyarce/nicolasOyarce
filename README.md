@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Nicolas Oyarce</h1>
 <h3 align="center">Software Enginner Student</h3>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+ 
+<h3>About me</h3>
+ 
 <!--- stats & Trophy (start) --> 
 <p align="center">
   <!--- stats (start) -->
@@ -24,9 +24,9 @@
 </table>
 
 <!--h1 without bottom border-->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Tech Stack**
+<h3>Tech Stack</h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,django,bash,git,aws,bootstrap,css,cloudflare,postman,github,html,js,linux,md,mongodb,mysql,py,react,fastapi,docker,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=neovim,django,bash,git,aws,bootstrap,css,cloudflare,postman,github,html,js,linux,md,mongodb,mysql,py,react,fastapi,docker,latex,vscode&perline=14" />
   </a>
