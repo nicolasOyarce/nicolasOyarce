@@ -28,5 +28,5 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,django,bash,git,aws,bootstrap,css,cloudflare,postman,github,html,js,linux,md,mongodb,mysql,py,react,fastapi,docker,latex,vscode,nextjs,npm,r,tailwind,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=neovim,django,bash,git,aws,bootstrap,css,cloudflare,postman,github,html,js,linux,md,mongodb,mysql,py,react,fastapi,docker,latex,vscode,nextjs,npm,r,tailwind,nodejs,windows&perline=14" />
   </a>
