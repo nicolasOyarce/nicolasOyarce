@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nicolas Oyarce</h1>
-<h3 align="center">Software Enginner Student</h3>
+<h3 align="center">Software Enginner / FullStack Developer / Data Science</h3>
  
 <h3>About me</h3>
  
