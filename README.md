@@ -5,8 +5,8 @@
   <p>🚀 <b>AI-Augmented Developer</b> | Architecting Scalable Systems</p>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR_USER"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/nicolasOyarce"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:niqo.oyarce24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
