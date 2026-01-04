@@ -26,7 +26,7 @@ Professional developer specialized in **robust Backend architectures** and **clo
 **[ Backend & Infrastructure ]** `Primary Expertise`
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,java,spring,mysql,supabase,docker,aws,cloudflare,linux,bash,maven" />
+    <img src="https://skillicons.dev/icons?i=py,django,java,spring,mysql,supabase,docker,aws,cloudflare,linux,bash,maven,supabase,vercel" />
   </a>
 </p>
 
@@ -53,13 +53,3 @@ Professional developer specialized in **robust Backend architectures** and **clo
   <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nicolasOyarce&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nicolasOyarce&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasOyarce&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</div>
